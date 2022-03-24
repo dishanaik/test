@@ -32,5 +32,6 @@ button:hover {
 }              
 .container {   
   padding: 25px;   
-  background-color: lightblue;  
+  background-color: lightblue; 
+  margin: 25px; 
 }   
